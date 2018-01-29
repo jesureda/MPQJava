@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry including="Puntuaciones.txt|PuzzleQuest.jpg|bat1.gif|deadpool.jpg|fondo.png|guardians.jpg|iron.wav|iron0.png|iron1.png|iron2.png|iron3.png|iron4.png|iron5.png|ironman.png|laser.png|magneto.jpg|main.wav|marvelPuzzle.jpg|pac.wav|puntos.jpg|spiderlizard.jpg|spiderman.jpg|spiderman.png|thor.jpg|thorloki.jpg|venom.jpg|wolverine.jpg|youwin.jpg" kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
